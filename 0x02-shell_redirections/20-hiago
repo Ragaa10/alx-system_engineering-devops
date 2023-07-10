@@ -1,2 +1,2 @@
 i#!/bin/bash
-te -d "cC"
+tr -d "cC"
